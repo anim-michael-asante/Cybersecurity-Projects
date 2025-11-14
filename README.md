@@ -21,10 +21,10 @@ Whether you are a beginner or a professional, you can explore the projects to le
 
 A brief list of the projects included:
 
-- **Network Security Lab** – Configurations, monitoring, and testing of network vulnerabilities.
-- **Penetration Testing Exercises** – Hands-on exercises simulating real-world attacks.
-- **Vulnerability Assessment** – Using tools like Nmap and Metasploit to identify and remediate vulnerabilities.
-- **Ethical Hacking Challenges** – TryHackMe, HackTheBox, and custom scenarios.
+- **Active Directory Lab** – Setup, configuration, and administration of AD environments, including users, groups, policies, and authentication.
+- **Python Scripting** – Automation scripts for system administration, security tasks, data processing, and custom tooling.
+- **Virtual Homelab Reports** – Documentation and technical reports from VMware/VirtualBox homelabs covering deployments, configurations, experiments, and findings.
+- More projects coming soon…
 
 > Each project folder contains its own README with detailed instructions, objectives, and results.
 
